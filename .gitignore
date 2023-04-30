@@ -1,2 +1,4 @@
 /JavaApplication4/nbproject/private/
 *.class
+/HelloWorld/dist/
+/HelloWorld/build/
